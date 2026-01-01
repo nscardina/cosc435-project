@@ -16,9 +16,10 @@ University events to be viewed. ​
 Clone the repository to your local machine:
 > Select the distination for the repository to be cloned to on your machine through the command line tool
 > 
-> Run the following command: git clone git@github.com:abim91/TUHub.git
+> Run the following command: git clone https://github.com/nscardina/cosc435-project-group2.git
 > 
 ** Be sure to have Xcode downloaded on your device **
+> Set up a Firebase project and add an iOS project to it, as described [here](https://firebase.google.com/docs/ios/setup). Download the GoogleService-Info.plist file and place it in the TUHub directory.
 >
 > Open the TUHub folder, then open TUHubApp.swift in Xcode.
 >
